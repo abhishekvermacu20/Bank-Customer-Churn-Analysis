@@ -51,4 +51,5 @@ Getting Started
 Conclusion
 This project equips you with the skills and knowledge to create an insightful Customer Churn Rate Analysis Dashboard using Power BI. By understanding the factors contributing to customer churn, you can develop strategies to improve customer retention and drive business success.
 
-
+Maven Dashboard : https://mavenanalytics.io/project/16705
+LinkedIn : https://www.linkedin.com/in/codewithvermaabhishek/edit/forms/project/new/?profileFormEntryPoint=PROFILE_SECTION
